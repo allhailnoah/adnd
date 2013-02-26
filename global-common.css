@@ -1,0 +1,12 @@
+@import url("http://fonts.googleapis.com/css?family=Ubuntu|Dr+Sugiyama|Mr+Dafoe");
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+.you {
+    font-family: 'Dr Sugiyama', serif;
+    text-transform: uppercase;
+}
+.we {
+    font-family: 'Mr Dafoe', serif;
+    text-transform: lowercase;
+}
